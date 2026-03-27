@@ -66,5 +66,5 @@ product solutions across SAP Concur, SAP Ariba, and Oracle R12 EBS.
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mshoyab-blue?logo=linkedin)](https://linkedin.com/in/mshoyab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shoyabx.github.io-green)](https://shoyabx.github.io/portfolio/)
+[![Portfolio](https://looperz.vercel.app)
 [![Email](https://img.shields.io/badge/Email-shoyab.mail@gmail.com-red?logo=gmail)](mailto:shoyab.mail@gmail.com)
