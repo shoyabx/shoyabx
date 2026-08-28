@@ -1,7 +1,7 @@
 # Hi, I'm Shoyab 👋
 
 Enterprise Product Manager with 8+ years driving platform strategy 
-for global finance and procurement systems at American Express.
+for global finance and procurement systems at American Express
 
 I work at the intersection of ERP platforms, fintech, and product 
 thinking — translating complex business problems into scalable 
